@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-height: 50px;
+    background-color: #040B29;
+    padding: 20px 20px; 
+}
+
+.logo {
+    height: 25px;
+    width: auto;
+    margin-top: 20px ;
+    margin-left: 40px;
+}
