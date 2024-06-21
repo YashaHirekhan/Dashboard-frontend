@@ -49,6 +49,10 @@
     justify-content: space-between;
     height: 100%;
 }
+
+.mapcard:hover {
+    transform: scale(1.05);
+}
   
 .card {
     background-color: #07144a;

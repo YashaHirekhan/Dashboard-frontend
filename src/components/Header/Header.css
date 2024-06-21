@@ -7,9 +7,10 @@
     padding: 20px 20px; 
 }
 
-.logo {
-    height: 25px;
+h1 {
+    height: 30px;
     width: auto;
-    margin-top: 20px ;
+    margin-top: 10px ;
     margin-left: 40px;
+    color: aliceblue;
 }
